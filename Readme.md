@@ -3,7 +3,7 @@ Student Information :
 Name : FALGUNI 
 Roll No. : 2401360002
 University: K.R. Mangalam University
-Course: Btech CSE (FULL STACK DEVELOPMENT)
+Course: Btech CSE (UI/UX)
 Subject : Data Structure And Algorothms
 Course Code: ENCS205 / ENCA 201
 
@@ -69,4 +69,5 @@ Enter year: 2028
 Enter city: Bengaluru
 Enter temperature: 24.5
 Record inserted successfully.
+
 
